@@ -1,4 +1,5 @@
 class CurrencyConverter2 {
+	System.out.println("Assignment 2");
 	double [] exchangeRates = new double[]{63, 3, 3, 595, 18, 107, 2};
 	
 	void printCurrencies(){
